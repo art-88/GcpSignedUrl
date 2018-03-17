@@ -1,0 +1,12 @@
+{
+  "name": "arata/gcpurl",
+  "authors": [
+    {
+      "name": "Arata Sekine",
+      "email": "arata.1203@gmail.com"
+    }
+  ],
+  "require": {
+    "google/cloud": "^0.56.0"
+  }
+}
