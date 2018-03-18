@@ -9,6 +9,6 @@ GCPのCloud Strageにあるデータの署名付きURLをPHPで生成
 ### コマンド引数
 | 引数名 | 概要 |
 |:------------:|:------------:|
-| SSH_KEY.json |GCPのサービスアカウントで作成した資格情報のjsonファイル名|
+| gcp_testuser_credentials.json |GCPのサービスアカウントで作成した資格情報のjsonファイル名|
 | bucket_name |指定するオブジェクトが存在するGCPのバケット名|
 | object_name |指定するオブジェクト名|
